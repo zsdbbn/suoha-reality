@@ -1,7 +1,5 @@
-# 支持 alpine
-```
-curl https://www.baipiao.eu.org/suoha.sh -o suoha.sh && bash suoha.sh
-```
+# alpine 安装argo
+
 
 ```
 wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/suoha.sh -O suoha.sh && bash suoha.sh
@@ -12,7 +10,7 @@ wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/suoha.sh -O suo
 cat v2ray.txt 
 ```
 
-# alpine小鸡上全自动搭建reality协议
+# alpine搭建reality协议
 ```
 apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/reality.sh -O reality.sh && bash reality.sh
 ```
