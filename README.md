@@ -14,5 +14,5 @@ cat v2ray.txt
 
 # alpine小鸡上全自动搭建reality协议
 ```
-apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha/main/reality.sh -O reality.sh && bash reality.sh
+apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/reality.sh -O reality.sh && bash reality.sh
 ```
