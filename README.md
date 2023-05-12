@@ -5,4 +5,4 @@
 # 信息保存在 v2ray.txt,再次查看请运行 cat v2ray.txt
 
 # alpine小鸡上全自动搭建reality协议
-# apk update && apk add bash && wget https://raw.githubusercontent.com/lgdlkq/32m/main/xr_install.sh -O xr_install.sh && bash xr_install.sh
+# apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha/main/reality.sh -O xr_install.sh && bash xr_install.sh
