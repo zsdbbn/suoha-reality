@@ -13,5 +13,5 @@ cat v2ray.txt
 ```
 apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/reality.sh -O reality.sh && bash reality.sh
 ```
-# Clash Meta配置文件：/root/Xray/clash-meta.yaml
-# reality的分享链接：/root/Xray/share-link.txt
+@ Clash Meta配置文件：/root/Xray/clash-meta.yaml
+@ reality的分享链接：/root/Xray/share-link.txt
