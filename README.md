@@ -1,4 +1,4 @@
-# alpine 安装argo（vless & vmess）
+# Alpine 安装argo（vless & vmess）
 ```
 wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/suoha.sh -O suoha.sh && bash suoha.sh
 ```
@@ -9,7 +9,7 @@ cat v2ray.txt
 
 
 
-# alpine搭建reality协议
+# Alpine搭建reality协议
 ```
 apk update && apk add bash && wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/reality.sh -O reality.sh && bash reality.sh
 ```
