@@ -1,4 +1,5 @@
-# "Alpine""Debian" "Ubuntu" "CentOS" "Fedora 安装argo（vless & vmess）
+# "Alpine""Debian" "Ubuntu" "CentOS" "Fedora" 
+# 安装ARGO（VLESS & VMESS）
 ```
 wget https://raw.githubusercontent.com/zsdbbn/suoha-reality/main/suoha.sh -O suoha.sh && bash suoha.sh
 ```
