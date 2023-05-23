@@ -1,0 +1,46 @@
+{
+  "log": {
+    "loglevel": "INFO"
+  },
+  "inbounds": [
+    {
+      "port": 2052,
+      "protocol": "vless",
+      "settings": {
+        "clients": [
+          {
+            "id": "b991007e-c86e-478e-8532-20d100eea12e",
+            "level": 1,
+            "alterId": 0
+          }
+        ],
+        "decryption": "none"
+      },
+      "streamSettings": {
+        "network": "ws"
+      }
+    },
+    {
+      "port": 2053,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
+          {
+            "id": "b991007e-c86e-478e-8532-20d100eea12e",
+            "security": "auto"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "tag": "direct"
+    }
+  ]
+}
