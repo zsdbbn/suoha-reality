@@ -1,4 +1,4 @@
-
+![image]([https://user-images.githubusercontent.com/98247050/232048722-7e0e23e3-367a-495b-a907-419681092d1d.png](https://github.com/zsdbbn/suoha-reality/blob/main/photo.jpg))
 # "Alpine""Debian" "Ubuntu" "CentOS" "Fedora" 
 # |---->>安装ARGO（VLESS & VMESS）<<----|
 ```
