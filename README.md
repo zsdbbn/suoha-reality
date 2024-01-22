@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://dartnode.com/assets/dash/images/brand/logo.png" alt="图片描述" style="margin-bottom: -50px;">
-</p>
 # "Alpine""Debian" "Ubuntu" "CentOS" "Fedora" 
 # |---->>安装ARGO（VLESS & VMESS）<<----|
 ```
