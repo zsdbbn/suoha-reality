@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky](https://dartnode.com/assets/dash/images/brand/logo.png)" alt="图片描述" style="margin-bottom: -50px;">
+  <img src="https://dartnode.com/assets/dash/images/brand/logo.png" alt="图片描述" style="margin-bottom: -50px;">
 </p>
 # "Alpine""Debian" "Ubuntu" "CentOS" "Fedora" 
 # |---->>安装ARGO（VLESS & VMESS）<<----|
